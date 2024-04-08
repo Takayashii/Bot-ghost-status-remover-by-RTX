@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["In game arive.rip","Watching Tickets","Playing NoDebuff"];
+const statusMessages = ["In game VantagePvP","Watching Tickets","Playing NoDebuff"];
 
 
 let currentIndex = 0;
