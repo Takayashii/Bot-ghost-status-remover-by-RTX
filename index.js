@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["In game VantagePvP","Watching Tickets","Playing NoDebuff"];
+const statusMessages = ["In game Minecraft","Watching Tickets","Manages Server"];
 
 
 let currentIndex = 0;
