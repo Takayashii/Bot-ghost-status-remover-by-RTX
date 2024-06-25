@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Debuff.club","Watching Tickets","Queueing NoDebuff"];
+const statusMessages = ["Listening Chief Keef","Watching Tickets","Playing Minecraft"];
 
 
 let currentIndex = 0;
